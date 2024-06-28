@@ -1,0 +1,40 @@
+# Build artifacts
+/build/
+/.idea/
+/gradle/
+/local.properties
+/.gradle/
+/app/build/
+
+# Gradle-specific files
+*.iml
+.gradle/
+/gradlew
+gradlew.bat
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android Studio specific files
+.idea/
+/*.iml
+
+# Log files
+*.log
+
+# Android-specific files
+/app/.cxx/
+/app/local.properties
+/app/captures/
+/app/outputs/
+/app/intermediates/
+
+# Generated files
+/app/src/debug/
+/app/src/release/
+/app/src/androidTest/
+/app/src/test/
+
+# Exclude any temp files
+*.tmp
+*.temp
+*.swp
